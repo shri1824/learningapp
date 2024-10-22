@@ -28,3 +28,4 @@ B:\shrikant\azure\app\learningapp\obj\Debug\net8.0\refint\learningapp.dll
 B:\shrikant\azure\app\learningapp\obj\Debug\net8.0\learningapp.pdb
 B:\shrikant\azure\app\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
 B:\shrikant\azure\app\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+B:\shrikant\azure\app\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
