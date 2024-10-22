@@ -1,0 +1,7 @@
+B:\shrikant\azure\app\bin\Publish\learningapp.exe
+B:\shrikant\azure\app\bin\Publish\appsettings.Development.json
+B:\shrikant\azure\app\bin\Publish\appsettings.json
+B:\shrikant\azure\app\bin\Publish\learningapp.dll
+B:\shrikant\azure\app\bin\Publish\learningapp.deps.json
+B:\shrikant\azure\app\bin\Publish\learningapp.runtimeconfig.json
+B:\shrikant\azure\app\bin\Publish\learningapp.pdb
